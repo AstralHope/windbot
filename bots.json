@@ -1,19 +1,24 @@
 {
-    "windbots": [
-      {
-        "name": "复制植物",
-        "deck": "Blue-Eyes",
-        "dialog": "copy.zh-CN"
-      },
-      {
-        "name": "彩音",
-        "deck": "DarkMagician",
-        "dialog": "ayane.zh-CN"
-      },
-      {
-        "name": "突击核",
-        "deck": "UnderdogBeat",
-        "dialog": "Assaultcore.zh-CN"
-      }
-    ]
+  "windbots": [
+    {
+      "name": "复制植物",
+      "deck": "Blue-Eyes",
+      "dialog": "copy.zh-CN"
+    },
+    {
+      "name": "彩音",
+      "deck": "DarkMagician",
+      "dialog": "ayane.zh-CN"
+    },
+    {
+      "name": "突击核",
+      "deck": "UnderdogBeat",
+      "dialog": "Assaultcore.zh-CN"
+    },
+    {
+      "name": "突击核",
+      "deck": "Rainbow",
+      "dialog": "cirno.zh-CN"
+    }
+  ]
 }
